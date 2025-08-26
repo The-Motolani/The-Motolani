@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm The-Motolani 👋
 
-<!--
-**The-Motolani/The-Motolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Full-Stack JavaScript Developer currently taking the **IBM Full Stack JavaScript Developer course (Coursera)** and **ALX Frontend & Backend programs**.  
+I have a foundation in **HTML** and **CSS**, and I’m building skills across JavaScript, Git, and modern development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+- HTML  
+- CSS  
+- JavaScript (in progress)  
+
+---
+
+## 🧰 Developer Tools
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 🌱 What I'm Learning
+- Frontend Development (HTML, CSS, JavaScript, React, Tailwind, Vite)  
+- Backend Development (Node.js, Express, APIs)  
+- DevOps Basics (Git, GitHub, Deployment tools)  
+
+---
+
+## 📊 GitHub Stats
+![The-Motolani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Motolani&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Motolani&layout=compact&theme=radical)  
+
+---
+
+## 📬 Let’s Connect!
+- **LinkedIn:** [Motolani Alebiosu](https://www.linkedin.com/in/motolanicalebiosu)  
+- **Email:** alebiosumotolani@gmail.com
+
