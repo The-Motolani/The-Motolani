@@ -1,4 +1,4 @@
-# Hi there, I'm The-Motolani 👋
+# Hi there, I'm Motolani 👋
 
 I’m an aspiring Full-Stack JavaScript Developer currently taking the **IBM Full Stack JavaScript Developer course (Coursera)** and **ALX Frontend & Backend programs**.  
 I have a foundation in **HTML** and **CSS**, and I’m building skills across JavaScript, Git, and modern development tools.
