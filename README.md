@@ -9,7 +9,7 @@ I have a foundation in **HTML** and **CSS**, and I’m building skills across Ja
 - HTML  
 - CSS  
 - JavaScript (in progress)  
-
+- Python (in progress)
 ---
 
 ## 🧰 Developer Tools
@@ -21,7 +21,7 @@ I have a foundation in **HTML** and **CSS**, and I’m building skills across Ja
 
 ## 🌱 What I'm Learning
 - Frontend Development (HTML, CSS, JavaScript, React, Tailwind, Vite)  
-- Backend Development (Node.js, Express, APIs)  
+- Backend Development (Python,  Express, APIs)  
 - DevOps Basics (Git, GitHub, Deployment tools)  
 
 ---
