@@ -8,8 +8,11 @@ I have a foundation in **HTML** and **CSS**, and I’m building skills across Ja
 ## 🚀 Technologies
 - HTML  
 - CSS  
-- JavaScript (in progress)  
-- Python (in progress)
+- JavaScript  
+- Python
+- React
+- Django
+- 
 ---
 
 ## 🧰 Developer Tools
